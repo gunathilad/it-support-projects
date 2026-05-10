@@ -1,0 +1,17 @@
+Active Directory Lab 🖥️
+📌 Overview
+
+This project is a hands-on Active Directory Lab built using Windows Server. It is designed to simulate a real enterprise environment where you can practice and learn core IT support and system administration skills.
+
+The lab focuses on Active Directory Domain Services (AD DS) configuration, user management, group policies, and basic network troubleshooting.
+
+🎯 Objectives
+Set up a Windows Server as a Domain Controller
+Install and configure Active Directory Domain Services (AD DS)
+Create and manage users, groups, and organizational units (OUs)
+Join client machines to the domain
+Apply Group Policies (GPO)
+Practice basic IT troubleshooting scenarios
+🛠️ Technologies Used
+Windows Server (2016/2019/2022)
+Windows
