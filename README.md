@@ -1,5 +1,7 @@
 # it-support-projects
+
 Collection of IT Support labs, troubleshooting tasks, and real-world technical support projects.
+
 # IT Help Desk Practical Labs
 
 This repository contains hands-on IT Help Desk and IT Support practical labs focused on real-world troubleshooting scenarios used in entry-level IT support environments.
