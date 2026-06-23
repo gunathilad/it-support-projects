@@ -1,12 +1,16 @@
 
-Active-Directory-Lab
+# Active-Directory-Lab
 
-Objective
-Create VM in Hyper V
+ ## Objective
+-Create VM in Hyper V
 
-Tasks Performed
-Install clent pc 2
-Install win server 1 pc
+## Tasks Performed
 
-Outcome
-Successfully identified Active Directory Featurs 
+-Install clent pc 2
+-Install win server 1 pc
+
+## Outcome
+-Successfully identified Active Directory Featurs 
+
+
+
