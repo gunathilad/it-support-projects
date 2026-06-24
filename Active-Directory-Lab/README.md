@@ -27,21 +27,21 @@ The environment consists of a Windows Server configured as a Domain Controller a
 -Domain Information
 -Domain Name: vitalgraphix.local
 
-#Organizational Units:
+# Organizational Units:
 
 - HR
 - Finance
--IT
+- IT
 - Groups
--Computers
+- Computers
 
-#Skills Demonstrated
+# Skills Demonstrated
 
--Active Directory Administration
--DNS Configuration
--User and Group Management
--Group Policy Management
--Windows Server Administration
--PowerShell Automation
--Domain Management
--SIT Infrastructure Fundamentals
+- Active Directory Administration
+- DNS Configuration
+- User and Group Management
+- Group Policy Management
+- Windows Server Administration
+- PowerShell Automation
+- Domain Management
+- SIT Infrastructure Fundamentals
