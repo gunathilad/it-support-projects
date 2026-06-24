@@ -11,13 +11,14 @@
 
 
 ## Group Policy
-# Pasworkd Policy
+# Pasword Policy
 
 <img width="1906" height="982" alt="image" src="https://github.com/user-attachments/assets/c41592c3-024d-4560-ac37-5d270b564a75" />
 
 # USB Block Policy
 
-<img width="1906" height="982" alt="image" src="https://github.com/user-attachments/assets/c41592c3-024d-4560-ac37-5d270b564a75" />
+<img width="1910" height="994" alt="image" src="https://github.com/user-attachments/assets/c6a7b30d-27bb-422a-bd64-82c98f8c2808" />
+
 
 
 
