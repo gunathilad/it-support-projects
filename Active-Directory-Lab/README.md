@@ -1,4 +1,4 @@
-##Project Overview
+#Project Overview
 
 This project demonstrates the implementation and management of an Active Directory Domain Services (AD DS) environment for a small business network. The objective of this lab is to gain hands-on experience with Windows Server administration, Active Directory management, DNS configuration, Group Policy administration, and PowerShell automation.
 
@@ -17,7 +17,7 @@ The environment consists of a Windows Server configured as a Domain Controller a
 
 #This project simulates a real-world enterprise environment and demonstrates fundamental skills required for IT Support, Help Desk, System Administration, and Windows Server administration roles.
 
-##Technologies Used
+#Technologies Used
 
 -Windows Server 2019
 -Active Directory Domain Services
