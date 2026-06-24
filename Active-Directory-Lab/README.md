@@ -4,7 +4,7 @@ This project demonstrates the implementation and management of an Active Directo
 
 The environment consists of a Windows Server configured as a Domain Controller and DNS Server, along with multiple Organizational Units (OUs), user accounts, security groups, and domain-joined client computers.
 
-# Key administrative tasks performed in this project include:
+## Key administrative tasks performed in this project include:
 
 -Installing and configuring Active Directory Domain Services (AD DS)
 -Deploying and configuring DNS Server
