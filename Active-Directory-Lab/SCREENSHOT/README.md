@@ -10,3 +10,14 @@
 <img width="1910" height="995" alt="image" src="https://github.com/user-attachments/assets/5b2b3855-84ba-4ed0-a4f0-1966645e0843" />
 
 
+## Group Policy
+# Pasworkd Policy
+
+<img width="1906" height="982" alt="image" src="https://github.com/user-attachments/assets/c41592c3-024d-4560-ac37-5d270b564a75" />
+
+# USB Block Policy
+
+<img width="1906" height="982" alt="image" src="https://github.com/user-attachments/assets/c41592c3-024d-4560-ac37-5d270b564a75" />
+
+
+
