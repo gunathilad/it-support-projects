@@ -6,3 +6,7 @@
 
 <img width="935" height="502" alt="image" src="https://github.com/user-attachments/assets/a849ebe7-530e-4a28-9c77-a0bdc48c8cff" />
 
+## Create User And Computer
+<img width="1910" height="995" alt="image" src="https://github.com/user-attachments/assets/5b2b3855-84ba-4ed0-a4f0-1966645e0843" />
+
+
