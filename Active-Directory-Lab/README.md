@@ -5,15 +5,14 @@ This project demonstrates the implementation and management of an Active Directo
 The environment consists of a Windows Server configured as a Domain Controller and DNS Server, along with multiple Organizational Units (OUs), user accounts, security groups, and domain-joined client computers.
 
 ## Key administrative tasks performed in this project include:
-
--Installing and configuring Active Directory Domain Services (AD DS)
--Deploying and configuring DNS Server
--Creating and managing Organizational Units (OUs)
--Creating and managing user accounts and security groups
--Joining client computers to the domain
--Configuring Group Policy Objects (GPOs)
--Implementing password and security policies
--Automating user management tasks using PowerShell scripts
+- Installing and configuring Active Directory Domain Services (AD DS)
+- Deploying and configuring DNS Server
+- Creating and managing Organizational Units (OUs)
+- Creating and managing user accounts and security groups
+- Joining client computers to the domain
+- Configuring Group Policy Objects (GPOs)
+- Implementing password and security policies
+- Automating user management tasks using PowerShell scripts
 
 # This project simulates a real-world enterprise environment and demonstrates fundamental skills required for IT Support, Help Desk, System Administration, and Windows Server administration roles.
 
